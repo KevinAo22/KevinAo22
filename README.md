@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm KevinAo22, in Beijing now.
+
+- 🔭 I’m currently working on TypeScript + Electron + Angular, and a little React.
+- 🌱 I’m currently learning Rust, and it's too hard!!!
+- 😄 I'm pursuing a contribution that will have a profound impact on the open source world.
+
+![KevinAo22's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAo22&show_icons=true&theme=blueberry)
 
 <!--
 **KevinAo22/KevinAo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
