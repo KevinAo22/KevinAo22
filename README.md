@@ -1,6 +1,7 @@
-### Hi, I'm KevinAo22, in Beijing now.
+### Hi, I'm KevinAo22, work at VMware in Beijing now.
 
-- 🔭 I’m currently working on TypeScript + Electron + Angular, and a little React.
+- 📥 I worked on TypeScript + Electron + Angular and C# before.
+- 🔭 I’m currently working on C++ now.
 - 🌱 I’m currently learning Rust, and it's too hard!!!
 - 😄 I'm pursuing a contribution that will have a profound impact on the open source world.
 
