@@ -1,4 +1,6 @@
-### Hi, I'm KevinAo22, work at VMware in Beijing now.
+### Hi, I'm KevinAo22, work in Beijing now.
+
+**Yuanfudao -> VMware**
 
 - 📥 I worked on TypeScript + Electron + Angular and C# before.
 - 🔭 I’m currently working on C++ now.
