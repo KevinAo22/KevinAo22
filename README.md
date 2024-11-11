@@ -1,13 +1,14 @@
-### Hi, I'm KevinAo22, work in Beijing now.
+### Hi, I'm Ao, living in China now.
 
-**Yuanfudao -> VMware**
+**Yuanfudao -> VMware -> Freedom**
 
-- 📥 I worked on TypeScript + Electron + Angular and C# before.
-- 🔭 I’m currently working on C++ now.
-- 🌱 I’m currently learning Rust, and it's too hard!!!
-- 😄 I'm pursuing a contribution that will have a profound impact on the open source world.
+- 🔭 I'm currently working on some projects in "New Buds" org.
+  - 🤔 The "New Buds" org is created by me and it is still in **Zero** phase.
+- 🌱 I'm proficient in
+  - 🍀 C++, TS, C#
+  - 📟 native Windows and macOS
+  - ⚙️ Electron, Angular, WPF
 
-![KevinAo22's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAo22&show_icons=true&theme=blueberry)
 
 <!--
 **KevinAo22/KevinAo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
